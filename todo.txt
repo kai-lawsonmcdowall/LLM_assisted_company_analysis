@@ -1,0 +1,4 @@
+Rewrite web scraping with google API 
+Send LLM summary as text, not document. 
+Try and create filtering for non-relevant results (may not be necessary with google API)
+Try with full competitor list and clients
