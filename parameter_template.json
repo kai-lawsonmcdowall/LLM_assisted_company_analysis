@@ -1,0 +1,7 @@
+{   "news_folder":"news",
+    "companies_to_search_file":"companies_to_search.txt",
+    "blacklist_file":"blacklist.txt",
+    "bedrock_region":"",
+    "slack_bot_token":"", 
+    "slack_bot_channel_id":""
+}

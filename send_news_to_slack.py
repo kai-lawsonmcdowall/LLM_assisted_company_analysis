@@ -5,8 +5,8 @@ from slack_sdk.errors import SlackApiError
 
 
 # Slack Bot Token and Channel ID (replace with your own values)
-SLACK_BOT_TOKEN = "INSERT YOURS HERE"
-SLACK_CHANNEL_ID = "INSERT YOURS HERE"
+SLACK_BOT_TOKEN = ""  # insert your slack bot token here
+SLACK_CHANNEL_ID = ""  # insert your slack channel id here.
 
 # Define the folder containing CSV files
 CSV_FOLDER = "news"

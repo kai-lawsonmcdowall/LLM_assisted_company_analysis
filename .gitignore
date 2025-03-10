@@ -1,0 +1,4 @@
+news/*
+legacy_news/*
+parameter.json
+__pycache__/
